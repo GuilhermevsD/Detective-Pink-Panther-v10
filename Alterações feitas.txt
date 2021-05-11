@@ -1,0 +1,20 @@
+v2:
+
+-Implementado sistema de peso do item
+
+v4:
+
+-Junção da v3 com a versão do examine e hidden
+
+v5:
+
+-Implementação inicial do comando search, que mostra os itens escondidos em uma sala
+
+v9.1:
+-Implementado sistema de item de chave para abrir portas
+-Consertado sistema de fechar salas
+-Consertado bug, onde caso entrar em uma sala escura com uma lanterna, ao sair e dropar o item em outra sala, se voltasse a mesma sala estaria acesa.
+-Implementado sistema de final do jogo
+
+v10:
+-Jogo finalizado em sua versão básica
